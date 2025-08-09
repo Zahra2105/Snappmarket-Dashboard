@@ -1,18 +1,20 @@
 # Snappmarket-Dashboard  
 
 Interactive KPI dashboard for SnappMarket — built in Google Sheets.  
-Tracks sales performance, category trends, and campaign efficiency using live CRM data.  
-
-## Features  
-- Live connection to CRM API for real-time updates  
-- Visual breakdown of sales KPIs by category and time period  
-- Easy-to-read charts and tables for quick decision-making  
+Tracks sales, customer behavior, and campaign performance 
 
 ## Preview  
-![Dashboard Preview](link-to-image.png)  
+![Dashboard 1](https://raw.githubusercontent.com/Zahra2105/Snappmarket-Dashboard/main/snapp%201.png)  
+![Dashboard 2](https://raw.githubusercontent.com/Zahra2105/Snappmarket-Dashboard/main/snapp%202.png)  
+![Dashboard 3](https://raw.githubusercontent.com/Zahra2105/Snappmarket-Dashboard/main/snapp%203.png)  
+![Dashboard 4](https://raw.githubusercontent.com/Zahra2105/Snappmarket-Dashboard/main/snapp%204.png)  
+![Dashboard 5](https://raw.githubusercontent.com/Zahra2105/Snappmarket-Dashboard/main/snapp%205.png)  
 
-## Files  
-- `Snappmarket_Dashboard_Screenshots/` – Folder containing high-resolution images  
+## Features  
+- KPI tracking for sales & marketing  
+- Platform-specific analytics (Snapp!, Social, Filmnet, Studio)  
+- Visual breakdown of contracts, lost opportunities, and budget allocation  
 
----
-*Note: Data is anonymized for confidentiality.*
+## Tools Used  
+- Google Sheets (Dashboard & Data Modeling)  
+- Data Visualization (Custom Charts & Graphs)  
